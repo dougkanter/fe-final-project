@@ -1,0 +1,147 @@
+.container-fluid {
+	padding: 0 auto;
+	background-color: #235398;	
+}
+
+.navbar {
+	background-color: #235398;
+	padding: 1em 0;
+	margin: 0;
+	border:0;
+}
+
+.top-info{
+}
+
+.top_info img{
+	height: 4em;
+}
+
+.hello {
+	background-color: #235398;
+	padding: 0;
+	color: white;
+}
+
+.mealmemory {
+	padding: 5em 0;
+	background-image: url("../img/background_breakfast.jpg");
+	background-position-x: -200px;
+	background-position-y: -400px;	
+	height: 800px;
+	background-repeat: no-repeat;
+	background-color: #DFDEDC;
+}
+
+.features {
+	background-color: #E1E0DC;
+	padding: 5em 0;
+}
+
+.features ul.features-list{
+ 	list-style: none;
+ 	padding: 0;
+	color: black;
+}
+
+.features .features-list li{
+  display: block;
+  clear: both;
+  padding: 5px 0;
+}
+
+.features .features-list .list-image{
+  float: left;
+  width: 104px;
+  height: 117px;
+  background: url(../img/features-sprites.png);
+  background-size: 91px;
+  background-repeat: no-repeat;
+}
+
+.features .features-list .list-image.photo-memory{
+  background-position: 0 -130px;
+  height: 66px;
+}
+
+.features .features-list .list-image.less-guesswork{
+  background-position: 0 -190px;
+  height: 80px;
+}
+
+.features .features-list .list-text{
+  margin-left: 110px;
+  padding-top: 0px;
+}
+
+/*
+.features .sprites {
+  float: left;
+  width: 80px;
+  height: 90px;
+  background: url(../img/features-sprites.png);
+  background-size: 70px;
+  background-repeat: no-repeat;	
+}
+
+.features .sprites .2of3 {	
+  background-position-y: -98px;
+  height: 50px;
+}
+
+.features .sprites .3of3 {
+  float: left;
+  width: 80px;
+  height: 90px;
+  background: url(../img/features-sprites.png);
+  background-size: 70px;
+  background-repeat: no-repeat;	
+}
+*/
+
+
+.insights {
+	padding: 5em 8em;
+	background-color: white;
+}
+
+.case_study {
+	padding-left: 50px;
+}
+
+.footer {
+	background-color: #235398;
+	padding: 3em 2em;
+	color: white;
+}
+
+.navbar img{
+	float: left;
+	padding-left: 8em;
+}
+
+#highlight {
+	background-color: #FFE026;
+}
+
+.img1{
+	width:220px;
+}
+
+.img2{
+	width:340px;
+	vertical-align: middle;
+}
+
+.img3{
+	width:400px;
+}
+
+ul {
+	list-style: none;
+	color: white;
+}
+
+.s1 ul, .s1 h3, .s1 p{
+	color: white;
+}
